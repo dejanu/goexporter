@@ -1,6 +1,8 @@
 # goexporter
-blackbox exporter [prometheus instrumentation](https://prometheus.io/docs/guides/go-application/#instrumenting-a-go-application-for-prometheus)
-a basic exporter [example](https://pkg.go.dev/github.com/prometheus/client_golang/prometheus#hdr-A_Basic_Example)
+
+* blackbox exporter [prometheus instrumentation](https://prometheus.io/docs/guides/go-application/#instrumenting-a-go-application-for-prometheus)
+
+* a basic exporter [example](https://pkg.go.dev/github.com/prometheus/client_golang/prometheus#hdr-A_Basic_Example)
 
 
 
