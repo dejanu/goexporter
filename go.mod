@@ -5,6 +5,7 @@ go 1.20
 require github.com/prometheus/client_golang v1.15.1
 
 require (
+	github.com/andelf/go-curl v0.0.0-20200630032108-fd49ff24ed97 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
